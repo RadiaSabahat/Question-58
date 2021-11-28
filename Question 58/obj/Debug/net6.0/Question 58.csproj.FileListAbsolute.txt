@@ -1,0 +1,15 @@
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.csproj.AssemblyReference.cache
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.AssemblyInfoInputs.cache
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.AssemblyInfo.cs
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.csproj.CoreCompileInputs.cache
+E:\oop assignment\Question 58\Question 58\bin\Debug\net6.0\Question 58.exe
+E:\oop assignment\Question 58\Question 58\bin\Debug\net6.0\Question 58.deps.json
+E:\oop assignment\Question 58\Question 58\bin\Debug\net6.0\Question 58.runtimeconfig.json
+E:\oop assignment\Question 58\Question 58\bin\Debug\net6.0\Question 58.dll
+E:\oop assignment\Question 58\Question 58\bin\Debug\net6.0\ref\Question 58.dll
+E:\oop assignment\Question 58\Question 58\bin\Debug\net6.0\Question 58.pdb
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.dll
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\ref\Question 58.dll
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.pdb
+E:\oop assignment\Question 58\Question 58\obj\Debug\net6.0\Question 58.genruntimeconfig.cache
